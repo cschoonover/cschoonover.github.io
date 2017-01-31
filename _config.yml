@@ -19,3 +19,17 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+# Misc
+licence: 
+# Podcast
+podcast:
+  title: Half-Cort and Mid-Raynge
+  art: https://link/to/cover/art.png
+  category: Sports
+  subcategories:
+  - Professional Basketball
+  subtitle: Half-Cort and Mid-Raynge is for and sometimes by Joel
+  summary: >
+    Half-Cort and Mid-Raynge is for and sometimes by Joel.
+    This is a longer summary. Hope it doesn't break the build

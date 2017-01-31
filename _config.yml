@@ -7,8 +7,8 @@ permalink:           pretty
 title:               Half-Cort and Mid-Raynge
 tagline:             'Half-Cort and Mid-Raynge'
 description:         'We will let you be in our podcast if you let us be in yours. I said that.'
-url:                 http://cschoonover.github.io
-baseurl:             'http://cschoonover.github.io'
+url:                 https://cschoonover.github.io
+baseurl:             'https://cschoonover.github.io'
 paginate:            5
 
 # About/contact

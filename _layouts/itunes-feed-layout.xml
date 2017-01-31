@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>{{ site.podcast.title }}</title>
-    <link>{{ site.podcast.link }}</link>
+    <link>{{ site.url }}</link>
     <itunes:author>{{ site.author }}</itunes:author>
     <copyright>{{ site.license }}</copyright>
     <language>en-us</language>

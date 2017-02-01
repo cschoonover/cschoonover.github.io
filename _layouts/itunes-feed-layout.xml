@@ -34,9 +34,9 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary><![CDATA[{{ post.content | strip_html }}]]></itunes:summary>
       <description><![CDATA[{{ post.content | strip_newlines }}]]></description>
-      <guid isPermaLink="true">{{ site.amazonbaseurl append: post.mp3 }}</guid>
+      <guid isPermaLink="true">{{ site.amazonbaseurl | append: post.mp3 }}</guid>
       <category>{{ site.podcast.category }}</category>
-      <enclosure length="{{ post.length }}" url="{{ site.amazonbaseurl append: post.mp3 }}" type="audio/mpeg"/>
+      <enclosure length="{{ post.length }}" url="{{ site.amazonbaseurl | append: post.mp3 }}" type="audio/mpeg"/>
     </item>
     {% endfor %}
   </channel>

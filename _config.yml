@@ -10,7 +10,7 @@ description:         'Producing replacement-level basketball podcasts since 2014
 url:                 https://cschoonover.github.io
 baseurl:             'https://cschoonover.github.io'
 amazonbaseurl:       http://s3-us-west-2.amazonaws.com/hcmr/
-amazonbaseurlhttps:       http://s3-us-west-2.amazonaws.com/hcmr/
+amazonbaseurlhttps:       https://s3-us-west-2.amazonaws.com/hcmr/
 paginate:            5
 
 # About/contact

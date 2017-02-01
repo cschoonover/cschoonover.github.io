@@ -3,8 +3,8 @@ layout: post
 title: "Joe Harris is on the Nets"
 date: "2016-07-14"
 categories: podcast
-aac_asset_link: "https://s3-us-west-2.amazonaws.com/hcmr/hcmrSeason2Episode2.mp3"
-mp3: "https://s3-us-west-2.amazonaws.com/hcmr/hcmrSeason2Episode2.mp3"
+aac_asset_link: "hcmrSeason2Episode2.mp3"
+mp3: "hcmrSeason2Episode2.mp3"
 duration: "42:25"
 length: "101822170"
 number: "013"

@@ -3,7 +3,7 @@ layout: post
 title: "Falling Stars Challenge"
 date: "2017-01-28"
 categories: podcast
-aac_asset_link: "hcmrSeason1Episode1.mp3"
+aac_asset_link: "hcmrSeason3Episode1.mp3"
 mp3: "hcmrSeason3Episode1.mp3"
 duration: ""
 length: ""

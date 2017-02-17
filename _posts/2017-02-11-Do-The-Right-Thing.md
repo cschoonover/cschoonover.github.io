@@ -11,4 +11,4 @@ number: "016"
 guests: 
 ---
 
-We talk about Ray's recent Kawhi mini-stand. Also we discuss halftime shows, and the movie Do the Right Thing. Also, there was an exciting technology developments w/r/t call-ins.
+We talk about Ray's recent Kawhi mini-stand. Also we discuss halftime shows, and the movie Do the Right Thing. Also, there was an exciting technology development w/r/t call-ins.

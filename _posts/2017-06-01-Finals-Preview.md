@@ -5,8 +5,8 @@ date: "2017-06-01"
 categories: podcast
 aac_asset_link: "hcmrSeason3Episode8.mp3"
 mp3: "hcmrSeason3Episode8.mp3"
-duration: ""
-length: ""
+duration: "183962644"
+length: "76:39"
 number: "021"
 guests: [JoshMyers]
 ---

@@ -5,8 +5,8 @@ date: "2017-02-21"
 categories: podcast
 aac_asset_link: "hcmrSeason3Episode4.mp3"
 mp3: "hcmrSeason3Episode4.mp3"
-duration: "168622497"
-length: "70:15"
+length: "168622497"
+duration: "70:15"
 number: "018"
 guests: 
 ---

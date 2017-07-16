@@ -5,8 +5,8 @@ date: "2017-02-19"
 categories: podcast
 aac_asset_link: "hcmrSeason3Episode3.mp3"
 mp3: "hcmrSeason3Episode3.mp3"
-duration: "133782464"
-length: "55:44"
+length: "133782464"
+duration: "55:44"
 number: "017"
 guests: [Andrew]
 ---

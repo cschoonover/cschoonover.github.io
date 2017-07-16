@@ -5,8 +5,8 @@ date: "2017-07-15"
 categories: podcast
 aac_asset_link: "hcmrSeason3Episode10.mp3"
 mp3: "hcmrSeason3Episode10.mp3"
-duration: ""
-length: ""
+duration: "98:19"
+length: "235963035"
 number: "023"
 guests: 
 ---

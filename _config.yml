@@ -27,6 +27,7 @@ licence:
 # Podcast
 podcast:
   title: Half-Cort and Mid-Raynge
+  author: Ray & Cort
   art: http://cschoonover.github.io/public/hcmr.png
   category: 'Sports &amp; Recreation'
   subcategories:

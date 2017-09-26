@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Offseason (Part 2): Banana Boat"
+title: "Offseason (Part 2) Banana Boat"
 date: "2017-09-26"
 categories: podcast
 aac_asset_link: "hcmrSeason3Episode13.mp3"

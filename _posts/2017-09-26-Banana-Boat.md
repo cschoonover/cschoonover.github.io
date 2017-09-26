@@ -8,7 +8,7 @@ mp3: "hcmrSeason3Episode13.mp3"
 duration: "46:45"
 length: "112207411"
 number: "026"
-guests: [Greg] [Joel]
+guests: [Greg]
 ---
 
 Fashion Week! What are we wearing? Greg and Joel join us as guests for the first ever Banana Boat podcast. Melo got traded from the Knicks to the Thunder! Extramundane? You decide.

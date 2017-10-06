@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Offseason (Part 1)"
+title: "Offseason Part 1"
 date: "2017-09-21"
 categories: podcast
 aac_asset_link: "hcmrSeason3Episode12.mp3"

@@ -5,8 +5,8 @@ date: "2017-11-20"
 categories: podcast
 aac_asset_link: "hcmrSeason4Episode2.mp3"
 mp3: "hcmrSeason4Episode2.mp3"
-duration: "00:00"
-length: "00000000"
+duration: "85:42"
+length: "205702791"
 number: "028"
 guests: 
 ---
